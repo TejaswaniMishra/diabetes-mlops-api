@@ -1,0 +1,18 @@
+{
+  "dataset": "salihacur/diabetes",
+  "model": "RandomForestClassifier",
+  "n_estimators": 200,
+  "test_size": 0.2,
+  "random_state": 42,
+  "accuracy": 0.7468,
+  "features": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ]
+}
